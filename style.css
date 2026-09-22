@@ -1,0 +1,16 @@
+h1 {
+    color:blueviolet;
+}
+h3 {
+    color:rgb(255, 0, 183);
+}
+p {
+    color:rgb(231, 47, 47);
+}
+table th, table tr, table td {
+    color:rgb(11, 75, 29);
+}
+    table, table th, table td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
